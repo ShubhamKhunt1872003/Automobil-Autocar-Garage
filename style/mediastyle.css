@@ -435,8 +435,8 @@
     .shop-sub{
         display:none;
     }
-    .search-bar div sup{
-        visibility: hidden;
+    .search-bar div sup
+        visibility: hidden !important;
     }
     .input-search{
         left: -160px;
