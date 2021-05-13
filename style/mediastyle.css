@@ -293,6 +293,9 @@
     .Addmain{
         width:100vw !important;
     }
+     .input-search{
+        left: -225%;
+    }
 }
 
 
