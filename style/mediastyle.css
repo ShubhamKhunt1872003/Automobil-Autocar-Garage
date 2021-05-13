@@ -432,9 +432,14 @@
         display: flex;
         width: 240px;
     }
-    
+    .shop-sub{
+        display:none;
+    }
     .search-bar div sup{
         display:none;
+    }
+    .input-search{
+        left: -140px;
     }
     
 }
