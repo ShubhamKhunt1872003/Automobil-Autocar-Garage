@@ -435,6 +435,9 @@
     .input-search input{
         padding:0 !important;
     }
+    .shop-sub{
+        display:none !important;
+    }
 }
 @media (max-width: 250px)
 {
