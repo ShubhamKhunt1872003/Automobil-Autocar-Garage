@@ -432,12 +432,11 @@
         display: flex;
         width: 240px;
     }
-    .input-search input{
-        padding:0 !important;
+    
+    .search-bar div sup{
+        display:none;
     }
-    .shop-sub{
-        display:none !important;
-    }
+    
 }
 @media (max-width: 250px)
 {
